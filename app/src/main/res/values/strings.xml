@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Coffee Shop App</string>
+
+    <string name="coffee_shop">COFFEE SHOP</string>
+    <string name="enjoy_the_d">Enjoy the drink coffee.</string>
+    <string name="show_now">SHOP NOW</string>
+    <string name="welcome_bac">Welcome \nBack!</string>
+    <string name="forgot_your">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="popular">Popular</string>
+    <string name="black_coffee">Black Coffee</string>
+    <string name="good_day_se">Good day, Selenay</string>
+    <string name="what_would_">What would you like\nto drink today?</string>
+    <string name="winter_spec">Winter special</string>
+    <string name="decaff">DECAFF</string>
+    <string name="chocolate">CHOCOLATE</string>
+    <string name="iced_americ">ICED AMERICANO</string>
+    <string name="cappucino_l">CAPPUCINO LATTE</string>
+    <string name="silky_cafe_">SILKY CAFE\nAU LAIT</string>
+    <string name="iced_chocol">Iced Chocolate</string>
+
+
+
+</resources>
